@@ -3,8 +3,8 @@ Final project for the Ariel U. "Attack Lab" course
 
 For the installation follow the following steps on two seperate VM's:
 1. Server side:
-a. Install "Linux Ubuntu Server" v. 16.04.1.
-b. Copy the files from the "Server" folder to the VM.
+1. Install "Linux Ubuntu Server" v. 16.04.1.
+2. Copy the files from the "Server" folder to the VM.
 c. Open terminal and nevigate to the downloaded files.
 d. Run the command "bash install-server.sh".
 e. Change the machine IP to "10.0.0.1".
